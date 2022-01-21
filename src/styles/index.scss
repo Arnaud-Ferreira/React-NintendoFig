@@ -1,0 +1,13 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  background-color: #b33441;
+  & *::-webkit-scrollbar {
+    width: 5px;
+    height: 8px;
+    background-color: #dbcece;
+  }
+  & *::-webkit-scrollbar-thumb {
+    background: #b33441;
+  }
+}
+
