@@ -1,0 +1,12 @@
+.games {
+    height: 94%;
+    overflow: auto;
+    list-style-type: none;
+    &__title {
+        font-weight: bold;
+        font-family: sans-serif;
+        font-style: italic;
+        padding: 0.5rem;
+        transition: background-color 0.5s;
+    }
+}

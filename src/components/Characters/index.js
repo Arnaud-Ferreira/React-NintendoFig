@@ -8,6 +8,11 @@ export default function Characters() {
     return(
         <ul className="characters">
             <Character />
+            <Character />
+            <Character />
+            <Character />
+            <Character />
+            <Character />
         </ul>
     );
 }

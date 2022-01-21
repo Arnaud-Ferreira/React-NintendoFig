@@ -7,7 +7,7 @@ import Characters from '../Characters';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <div className="app__container">
         <Header />
         <Games />
