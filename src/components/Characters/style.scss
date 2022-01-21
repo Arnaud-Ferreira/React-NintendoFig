@@ -15,4 +15,11 @@
     padding: 1rem;
     text-align: center;
     max-height: fit-content;
+    img {
+        max-width: 100%;
+        margin-bottom: 0.5rem;
+    }
+    &__game {
+        font-weight: bold;
+    }
 }

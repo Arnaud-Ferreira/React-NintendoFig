@@ -8,5 +8,11 @@
         font-style: italic;
         padding: 0.5rem;
         transition: background-color 0.5s;
+        &:hover, &--selected {
+            background-color: #b33441;
+            transition: background-color .3s;
+            cursor: pointer;
+            color: white;
+        }
     }
 }
