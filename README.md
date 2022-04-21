@@ -3,6 +3,9 @@
 Application of figurines in the Nintendo universe developed in React. <br>
 You can search for figurines by filtering by game, or via the search bar.
 
+## Preview 
+![](result.gif)
+
 Install dependancies : 
 ```sh
 npm i
@@ -17,5 +20,4 @@ npm build
 ```
 
 ---
-## Preview 
-![](result.gif)
+
